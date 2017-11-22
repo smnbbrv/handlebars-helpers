@@ -6,4 +6,4 @@ import * as object from './lib/object';
 import * as string from './lib/string';
 import * as url from './lib/url';
 
-module.exports = Object.assign({}, comparison, date, math, number, object, string, url);
+export const HandlebarsHelpers = Object.assign({}, comparison, date, math, number, object, string, url);
