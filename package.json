@@ -60,10 +60,10 @@
   },
   "license": "MIT",
   "files": [
-    "index.js",
+    "webpack-index.js",
     "lib"
   ],
-  "main": "index.js",
+  "main": "webpack-index.js",
   "engines": {
     "node": ">=0.12.0"
   },
